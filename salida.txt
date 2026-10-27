@@ -1,0 +1,118 @@
+﻿=== 1. VERSION DE POWERSHELL ===
+
+Major  Minor  Build  Revision
+-----  -----  -----  --------
+5      1      19041  6456    
+
+=== 2. POLITICA DE EJECUCION (PERMISIVIDAD) ===
+RemoteSigned
+
+Scope           : MachinePolicy
+ExecutionPolicy : Undefined
+
+
+Scope           : UserPolicy
+ExecutionPolicy : Undefined
+
+
+Scope           : Process
+ExecutionPolicy : RemoteSigned
+
+
+Scope           : CurrentUser
+ExecutionPolicy : Undefined
+
+
+Scope           : LocalMachine
+ExecutionPolicy : Undefined
+
+
+=== 3. EDICION DEL SISTEMA OPERATIVO ===
+
+WindowsProductName : Windows 10 Home Single Language
+WindowsEditionId   : CoreSingleLanguage
+WindowsVersion     : 2009
+OsName             : Microsoft Windows 10 Home Single Language
+OsVersion          : 10.0.19045
+OsBuildNumber      : 19045
+OsArchitecture     : 64 bits
+
+
+=== 4. INFORMACION COMPLETA DE LA PC (CMD: systeminfo) ===
+
+Nombre de host:                            LUCAS
+Nombre del sistema operativo:              Microsoft Windows 10 Home Single Language
+Versión del sistema operativo:             10.0.19045 N/D Compilación 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              lucas_david_8@hotmail.com
+Organización registrada:                   
+Id. del producto:                          00327-30582-69640-AAOEM
+Fecha de instalación original:             9/9/2023, 19:23:16
+Tiempo de arranque del sistema:            14/10/2026, 18:34:51
+Fabricante del sistema:                    HP
+Modelo el sistema:                          
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 92 Stepping 9 GenuineIntel ~1501 Mhz
+Versión del BIOS:                          AMI F.06, 2/8/2017
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          5.973 MB
+Memoria física disponible:                 1.810 MB
+Memoria virtual: tamaño máximo:            9.045 MB
+Memoria virtual: disponible:               4.050 MB
+Memoria virtual: en uso:                   4.995 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\LUCAS
+Revisión(es):                              18 revisión(es) instaladas.
+                                           [01]: KB5066130
+                                           [02]: KB5030841
+                                           [03]: KB5011048
+                                           [04]: KB5015684
+                                           [05]: KB5020683
+                                           [06]: KB5072653
+                                           [07]: KB5126256
+                                           [08]: KB5071959
+                                           [09]: KB5014032
+                                           [10]: KB5025315
+                                           [11]: KB5028380
+                                           [12]: KB5031539
+                                           [13]: KB5032392
+                                           [14]: KB5032907
+                                           [15]: KB5039336
+                                           [16]: KB5059504
+                                           [17]: KB5063261
+                                           [18]: KB5071982
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [02]: Realtek RTL8723BE 802.11 bgn Wi-Fi Adapter
+                                                 Nombre de conexión: Wi-Fi
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.18
+                                                 [02]: fe80::c62f:a417:bcd8:887
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexión: Conexión de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::a447:679d:c5dd:bada
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
+
+
